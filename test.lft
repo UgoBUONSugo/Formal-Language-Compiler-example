@@ -1,0 +1,38 @@
+assign [2 to x, _3l, a_i]
+       [5 to y];
+read(z,l);
+if(< z l){ //if
+    assign [10 to j];
+    for(i := 0; < i 3)do{
+/* afs
+fsa */ 
+        for(< j 13)do{
+            print(i,j);
+            print(j);
+            if(< x 10){
+                assign [80 to x];
+                print(x, _3l , a_i)
+            }else{
+                print(1)
+            }end;
+            assign [+(j,1) to j]
+        };
+        assign [+(i,1) to i];
+        print(i)
+    };
+    for(<= i y)do{
+        print(i);
+        assign [+(i,1) to i]
+    }
+}else{
+    print(z)
+}end;
+/*commenti ***/
+read(a_1, _2b); /*Euclid *****/
+for ( <> a_1 _2b) do
+  if (> a_1 _2b) assign [ - a_1 _2b to a_1]
+  else assign [ - _2b a_1 to _2b]
+  end;
+  print(a_1, _2b, 100);
+  assign [ 20 to _2b, c, d];
+  print(*(_2b,c,_2b), 100) //end
